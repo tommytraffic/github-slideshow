@@ -12,3 +12,5 @@ And here's another line added in Atom.
 A third Atom line...
 
 ** Edited online in GitHub **
+
+Another edit in GitHub
